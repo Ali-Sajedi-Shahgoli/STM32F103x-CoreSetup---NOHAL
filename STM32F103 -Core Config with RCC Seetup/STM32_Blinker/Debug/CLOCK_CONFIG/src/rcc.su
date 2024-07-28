@@ -1,0 +1,8 @@
+C:/Users/Ali/Desktop/STM_Blinky/STM32_Blinker/CMISIS/Include/core_cm3.h:1600:22:__NVIC_ClearPendingIRQ	16	static
+C:/Users/Ali/Desktop/STM_Blinky/STM32_Blinker/CMISIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../CLOCK_CONFIG/src/rcc.c:9:6:RCC_HSE_CLOCK	4	static
+../CLOCK_CONFIG/src/rcc.c:47:6:RCC_SYSTICK_CONFIG	16	static
+../CLOCK_CONFIG/src/rcc.c:62:6:RCC_MSTICKS_INC	4	static
+../CLOCK_CONFIG/src/rcc.c:67:10:RCC_GET_MSTICKS	4	static
+../CLOCK_CONFIG/src/rcc.c:73:6:SysTick_Handler	8	static
+../CLOCK_CONFIG/src/rcc.c:79:6:RCC_DELAY	24	static

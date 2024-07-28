@@ -1,0 +1,6 @@
+"./CLOCK_CONFIG/src/rcc.o"
+"./Core/Src/main.o"
+"./Core/Src/syscalls.o"
+"./Core/Src/sysmem.o"
+"./Core/Src/system_stm32f1xx.o"
+"./Startup/startup_stm32f103xb.o"
