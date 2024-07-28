@@ -1,0 +1,2 @@
+../Core/Src/printf_redirect.c:13:5:__io_putchar	1
+../Core/Src/printf_redirect.c:18:5:_write	2
